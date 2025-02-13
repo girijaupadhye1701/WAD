@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background: url('https://via.placeholder.com/1920x500') no-repeat center center;
+    background-size: cover;
+    color: white;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Make the text in the header more prominent */
+  header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  header p {
+    font-size: 1.25rem;
+  }
+  
